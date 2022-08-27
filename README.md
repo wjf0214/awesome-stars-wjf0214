@@ -336,7 +336,7 @@
 
 *   [BlueSkyClouds/My-Actions](https://github.com/BlueSkyClouds/My-Actions) - 爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
 
-*   [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao) - \[当前版本: 20220825] 新版自动签到开源框架, binux/qiandao基础上添加完善各项功能，并适配Python3
+*   [qiandao-today/qiandao](https://github.com/qiandao-today/qiandao) - \[当前版本: 20220826] 新版自动签到开源框架, binux/qiandao基础上添加完善各项功能，并适配Python3
 
 *   [asksowhat/UnicomTask](https://github.com/asksowhat/UnicomTask) - 联通手机营业厅自动做任务、签到、领流量、领积分等。
 
@@ -592,7 +592,7 @@
 
 *   [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
-*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式Apache Kafka管控平台
+*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生Kafka管控平台
 
 *   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
 
