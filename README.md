@@ -16,13 +16,14 @@
 
 ## Table of Contents
 
+*   [C#](#c)
+*   [JavaScript](#javascript)
+*   [Vue](#vue)
 *   [Go](#go)
 *   [HTML](#html)
 *   [Java](#java)
-*   [C#](#c)
 *   [C](#c-1)
 *   [PHP](#php)
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
@@ -33,7 +34,6 @@
 *   [Swift](#swift)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
-*   [Vue](#vue)
 *   [Markdown](#markdown)
 *   [Stylus](#stylus)
 *   [Perl](#perl)
@@ -45,97 +45,15 @@
 *   [Blade](#blade)
 *   [Thanks](#thanks)
 
-## Go
-
-*   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
-
-*   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
-
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-
-*   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes.
-
-*   [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
-
-*   [XiaoMengXinX/Fuck163MusicTasks](https://github.com/XiaoMengXinX/Fuck163MusicTasks) - 网易云音乐自动签到、自动完成音乐人任务
-
-*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
-
-*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-
-*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-
-*   [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-
-*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
-
-*   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-
-## HTML
-
-*   [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
-
-*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-*   [sudoskys/Root](https://github.com/sudoskys/Root) - ？什么你说Root？我不到啊  | 致力于编写全面详细的Root教程文档 | 刷机 | 安卓
-
-*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
-
-*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
-
-*   [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
-
-*   [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
-
-*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-
-*   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
-
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
-
-## Java
-
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
-
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Support web service, database, os, middleware and more.
-
-*   [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" (^o^)/~
-
-*   [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
-
-*   [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
-
-*   [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
-
-*   [crazyandcoder/citypicker](https://github.com/crazyandcoder/citypicker) - citypicker城市选择器，详细的省市区地址信息，支持仿iOS滚轮实现，仿京东样式，一级或者三级列表展示方式。
-
-*   [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
-
-*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
-
-*   [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生流数据管控平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
-
-*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
-
 ## C\#
+
+*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+
+*   [Sophia-Community/SophiApp](https://github.com/Sophia-Community/SophiApp) - :zap: The most powerful open source tweaker on GitHub for fine-tuning Windows 10 & Windows 11
+
+*   [jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader) - 一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐
+
+*   [rocksdanister/lively](https://github.com/rocksdanister/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers.
 
 *   [1357310795/MyComputerManager](https://github.com/1357310795/MyComputerManager) - 管理“此电脑”里删不掉的流氓“快捷方式”（包括侧边栏），同时可自己添加这类“快捷方式”
 
@@ -165,81 +83,9 @@
 
 *   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 
-## C
-
-*   [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-
-*   [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-
-*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
-
-*   [y123456yz/reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕
-
-*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
-
-*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
-
-*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-
-*   [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
-
-## PHP
-
-*   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
-
-*   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
-
-*   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
-
-*   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
-
-*   [thephpleague/omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library for PHP 5.6+
-
-*   [GriffinLedingham/php-apple-signin](https://github.com/GriffinLedingham/php-apple-signin) - 🗝 Decode Apple Sign In client tokens in PHP
-
-*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
-
-*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
-
-*   [yitd/Any-Proxy](https://github.com/yitd/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
-
-*   [pushaowei/arithmetic-php](https://github.com/pushaowei/arithmetic-php) - 🍭🍭 如果说各种编程语言是程序员的招式,那么数据结构和算法就相当于程序员的内功  ,用PHP的方式来修炼内功吧
-
-*   [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
-
-*   [likeyun/liKeYun\_TbkTool](https://github.com/likeyun/liKeYun_TbkTool) - 淘宝客工具箱，朋友圈私域流量助手，一个用于朋友圈淘宝客引流工具，致力于淘宝客安全、方便、高效推广！
-
-*   [gz-hejiehui/WebStack-Laravel](https://github.com/gz-hejiehui/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
-
-*   [helei112g/payment](https://github.com/helei112g/payment) - Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
-
-*   [5ime/video\_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
-
-*   [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
-
-*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-
-*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
-
-*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
-
-*   [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
-
-*   [php-cpm/clean-code-php](https://github.com/php-cpm/clean-code-php) - :bathtub:  PHP版的代码整洁之道 中文翻译
-
-*   [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
-
-*   [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
-
-*   [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
-
 ## JavaScript
+
+*   [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - CUI 整合 for foobar2000
 
 *   [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 
@@ -355,6 +201,178 @@
 
 *   [CenBoMin/QuantumultX](https://github.com/CenBoMin/QuantumultX) - 自用配置 不定时更改
 
+## Vue
+
+*   [fzf404/Monit](https://github.com/fzf404/Monit) - 用于展示各种信息的桌面小组件
+
+*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+
+*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
+
+*   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
+
+## Go
+
+*   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
+
+*   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
+
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+
+*   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes.
+
+*   [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
+
+*   [XiaoMengXinX/Fuck163MusicTasks](https://github.com/XiaoMengXinX/Fuck163MusicTasks) - 网易云音乐自动签到、自动完成音乐人任务
+
+*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
+
+*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+
+*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+
+*   [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+
+*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
+
+*   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+
+## HTML
+
+*   [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
+
+*   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [sudoskys/Root](https://github.com/sudoskys/Root) - ？什么你说Root？我不到啊  | 致力于编写全面详细的Root教程文档 | 刷机 | 安卓
+
+*   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial）
+
+*   [TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) - 朋友圈转发截图生成工具
+
+*   [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
+
+*   [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
+
+*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
+
+*   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
+
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+
+## Java
+
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
+
+*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with custom-monitor and agentless. Support web service, database, os, middleware and more.
+
+*   [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" (^o^)/~
+
+*   [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
+
+*   [apache/incubator-seatunnel](https://github.com/apache/incubator-seatunnel) - SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
+
+*   [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
+
+*   [crazyandcoder/citypicker](https://github.com/crazyandcoder/citypicker) - citypicker城市选择器，详细的省市区地址信息，支持仿iOS滚轮实现，仿京东样式，一级或者三级列表展示方式。
+
+*   [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+
+*   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+
+*   [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生流数据管控平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
+
+*   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
+
+## C
+
+*   [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+
+*   [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+
+*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+
+*   [y123456yz/reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕
+
+*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+
+*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
+
+*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
+
+*   [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
+
+## PHP
+
+*   [maxmind/GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - PHP API for GeoIP2 webservice client and database reader
+
+*   [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
+
+*   [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
+
+*   [PGYER/codefever](https://github.com/PGYER/codefever) - CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!
+
+*   [thephpleague/omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library for PHP 5.6+
+
+*   [GriffinLedingham/php-apple-signin](https://github.com/GriffinLedingham/php-apple-signin) - 🗝 Decode Apple Sign In client tokens in PHP
+
+*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+
+*   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
+
+*   [yitd/Any-Proxy](https://github.com/yitd/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
+
+*   [pushaowei/arithmetic-php](https://github.com/pushaowei/arithmetic-php) - 🍭🍭 如果说各种编程语言是程序员的招式,那么数据结构和算法就相当于程序员的内功  ,用PHP的方式来修炼内功吧
+
+*   [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
+
+*   [likeyun/liKeYun\_TbkTool](https://github.com/likeyun/liKeYun_TbkTool) - 淘宝客工具箱，朋友圈私域流量助手，一个用于朋友圈淘宝客引流工具，致力于淘宝客安全、方便、高效推广！
+
+*   [gz-hejiehui/WebStack-Laravel](https://github.com/gz-hejiehui/WebStack-Laravel) - 一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。
+
+*   [helei112g/payment](https://github.com/helei112g/payment) - Payment是php版本的支付聚合第三方sdk，集成了微信支付、支付宝支付、招商一网通支付。提供统一的调用接口，方便快速接入各种支付、查询、退款、转账能力。服务端接入支付功能，方便、快捷。
+
+*   [5ime/video\_spider](https://github.com/5ime/video_spider) - 短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...
+
+*   [dompdf/dompdf](https://github.com/dompdf/dompdf) - HTML to PDF converter for PHP
+
+*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+
+*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
+
+*   [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+
+*   [php-curl-class/php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP Curl Class makes it easy to send HTTP requests and integrate with web APIs
+
+*   [php-cpm/clean-code-php](https://github.com/php-cpm/clean-code-php) - :bathtub:  PHP版的代码整洁之道 中文翻译
+
+*   [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+
+*   [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
+
+*   [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
+
 ## TypeScript
 
 *   [chinayangxiaowei/marktext-chinese-language-pack](https://github.com/chinayangxiaowei/marktext-chinese-language-pack) - Simplified Chinese language pack for marktext
@@ -424,8 +442,6 @@
 *   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 
 *   [dylanbai8/kmspro](https://github.com/dylanbai8/kmspro) - windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 ## miscellaneous
 
@@ -506,8 +522,6 @@
 *   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 *   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
-
-*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 
 ## Python
 
@@ -593,12 +607,6 @@
 
 *   [tychxn/jd-assistant](https://github.com/tychxn/jd-assistant) - 京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能
 
-*   [1gcat/ExampleForSCF](https://github.com/1gcat/ExampleForSCF) - 腾讯云SCF（云函数）、Github Actions的python脚本，用于每天自动签到，一个是吾爱破解论坛的一个是哔哩哔哩的，作为我了解SCF的示例。
-
-*   [ZainCheung/netease-cloud](https://github.com/ZainCheung/netease-cloud) - 网易云音乐全自动每日打卡300首歌升级账号等级，支持微信提醒，支持无服务器云函数部署
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
 ## C++
 
 *   [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - \[Unofficial] qBittorrent Enhanced, based on qBittorrent
@@ -650,14 +658,6 @@
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 *   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
-
-## Vue
-
-*   [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
-
-*   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
-
-*   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 
 ## Markdown
 
