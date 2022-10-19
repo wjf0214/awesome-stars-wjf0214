@@ -16,6 +16,8 @@
 
 ## Table of Contents
 
+*   [Go](#go)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Elixir](#elixir)
 *   [C#](#c)
@@ -23,7 +25,6 @@
 *   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
-*   [Go](#go)
 *   [HTML](#html)
 *   [Java](#java)
 *   [Shell](#shell)
@@ -40,11 +41,58 @@
 *   [Perl](#perl)
 *   [Assembly](#assembly)
 *   [Svelte](#svelte)
-*   [Rust](#rust)
 *   [Batchfile](#batchfile)
 *   [Makefile](#makefile)
 *   [Blade](#blade)
 *   [Thanks](#thanks)
+
+## Go
+
+*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+
+*   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
+
+*   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
+
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+
+*   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes.
+
+*   [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
+
+*   [XiaoMengXinX/Fuck163MusicTasks](https://github.com/XiaoMengXinX/Fuck163MusicTasks) - 网易云音乐自动签到、自动完成音乐人任务
+
+*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
+
+*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+
+*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+
+*   [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+
+*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
+
+*   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
+
+## Rust
+
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App  🤱🏻 A simple way to package a web page with Rust to create Mac App.
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
 ## TypeScript
 
@@ -330,8 +378,6 @@
 
 *   [songyangzz/QuantumultX](https://github.com/songyangzz/QuantumultX) - qx script
 
-*   [elecV2/elecV2P](https://github.com/elecV2/elecV2P) - 一款基于 NodeJS，可通过 JS 修改网络请求，以及定时运行脚本或 SHELL 指令的网络工具。
-
 ## Vue
 
 *   [fzf404/Monit](https://github.com/fzf404/Monit) - 用于展示各种信息的桌面小组件
@@ -341,42 +387,6 @@
 *   [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
 *   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
-
-## Go
-
-*   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
-
-*   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
-
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-
-*   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes.
-
-*   [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
-
-*   [XiaoMengXinX/Fuck163MusicTasks](https://github.com/XiaoMengXinX/Fuck163MusicTasks) - 网易云音乐自动签到、自动完成音乐人任务
-
-*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
-
-*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-
-*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-
-*   [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-
-*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
-
-*   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 
 ## HTML
 
@@ -540,7 +550,7 @@
 
 *   [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 
-*   [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印视频批量下载
+*   [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页视频、音频、图文、点赞
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
@@ -607,8 +617,6 @@
 *   [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 
 *   [zhaipro/easy12306](https://github.com/zhaipro/easy12306) - 使用机器学习算法完成对12306验证码的自动识别
-
-*   [Zero-S1/xmly\_speed](https://github.com/Zero-S1/xmly_speed) - xmly\_speed
 
 ## C++
 
@@ -681,14 +689,6 @@
 ## Svelte
 
 *   [daniel-hayes/today](https://github.com/daniel-hayes/today) - A minimal 24 hour todo list
-
-## Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
 ## Batchfile
 
