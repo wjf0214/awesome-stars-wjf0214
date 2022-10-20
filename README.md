@@ -58,7 +58,7 @@
 
 *   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 
-*   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes.
+*   [labring/sealos](https://github.com/labring/sealos) - Cloud operating system based on kubernetes. Own your own cloud with one click！
 
 *   [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
 
@@ -550,7 +550,7 @@
 
 *   [inventree/InvenTree](https://github.com/inventree/InvenTree) - Open Source Inventory Management System
 
-*   [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页视频、音频、图文、点赞
+*   [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) - 抖音去水印批量下载用户主页作品、喜欢、图文、音频
 
 *   [wbt5/real-url](https://github.com/wbt5/real-url) - 获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。
 
