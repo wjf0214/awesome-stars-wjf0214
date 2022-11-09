@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Vim Script](#vim-script)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [C](#c)
@@ -31,7 +32,7 @@
 *   [Java](#java)
 *   [Shell](#shell)
 *   [CSS](#css)
-*   [Vim script](#vim-script)
+*   [Vim script](#vim-script-1)
 *   [Swift](#swift)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
@@ -44,6 +45,10 @@
 *   [Batchfile](#batchfile)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## Vim Script
+
+*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## miscellaneous
 
@@ -660,8 +665,6 @@
 *   [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
 
 *   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 
 ## Markdown
 
