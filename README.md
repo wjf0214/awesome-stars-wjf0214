@@ -26,6 +26,7 @@
 *   [Vim Script](#vim-script)
 *   [Go](#go)
 *   [Vue](#vue)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Elixir](#elixir)
 *   [PHP](#php)
@@ -41,7 +42,6 @@
 *   [Perl](#perl)
 *   [Assembly](#assembly)
 *   [Svelte](#svelte)
-*   [Rust](#rust)
 *   [Batchfile](#batchfile)
 *   [Makefile](#makefile)
 *   [Thanks](#thanks)
@@ -478,9 +478,15 @@
 
 *   [zwpro/coupons](https://github.com/zwpro/coupons) - 美团饿了吗外卖红包外卖优惠券，先领红包再下单。外卖红包优惠券，cps分成，别人领红包下单，你拿佣金。
 
-## TypeScript
+## Rust
 
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App  🤱🏻 A simple way to make any web page a desktop application using Rust.
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+
+*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+
+## TypeScript
 
 *   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -
 
@@ -687,12 +693,6 @@
 ## Svelte
 
 *   [daniel-hayes/today](https://github.com/daniel-hayes/today) - A minimal 24 hour todo list
-
-## Rust
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-
-*   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## Batchfile
 
