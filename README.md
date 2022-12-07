@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Python](#python)
 *   [C#](#c)
 *   [TypeScript](#typescript)
@@ -33,7 +34,6 @@
 *   [HTML](#html)
 *   [Java](#java)
 *   [CSS](#css)
-*   [Swift](#swift)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [Markdown](#markdown)
@@ -43,6 +43,16 @@
 *   [Svelte](#svelte)
 *   [Batchfile](#batchfile)
 *   [Thanks](#thanks)
+
+## Swift
+
+*   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+
+*   [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
+
+*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
+
+*   [yichengchen/clashX](https://github.com/yichengchen/clashX) -
 
 ## Python
 
@@ -168,7 +178,7 @@
 
 ## TypeScript
 
-*   [zu1k/zlib-searcher](https://github.com/zu1k/zlib-searcher) - search zlib/libgen index to get ipfs\_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.
+*   [zlib-searcher/zlib-searcher](https://github.com/zlib-searcher/zlib-searcher) - search zlib/libgen index to get ipfs\_cid.
 
 *   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -
 
@@ -206,7 +216,7 @@
 
 *   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
 
 *   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 
@@ -466,8 +476,6 @@
 
 *   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 
-*   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
-
 ## Vim Script
 
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -645,14 +653,6 @@
 *   [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
-
-## Swift
-
-*   [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
-
-*   [Lakr233/Rayon](https://github.com/Lakr233/Rayon) - yet another SSH machine manager
-
-*   [yichengchen/clashX](https://github.com/yichengchen/clashX) -
 
 ## Dart
 
