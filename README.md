@@ -399,7 +399,7 @@
 
 *   [php-cpm/clean-code-php](https://github.com/php-cpm/clean-code-php) - :bathtub:  PHP版的代码整洁之道 中文翻译
 
-*   [jupeter/clean-code-php](https://github.com/jupeter/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
+*   [piotrplenik/clean-code-php](https://github.com/piotrplenik/clean-code-php) - :bathtub: Clean Code concepts adapted for PHP
 
 *   [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
 
