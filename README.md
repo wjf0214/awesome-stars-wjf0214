@@ -169,7 +169,7 @@
 
 ## JavaScript
 
-*   [quarkape/free-canvas](https://github.com/quarkape/free-canvas) - 一键免费下载高清无水印海报或LOGO，支持自动裁剪
+*   [quarkape/free-canvas](https://github.com/quarkape/free-canvas) - 一键免费下载标小智和标智客两个网站的高清无水印海报或LOGO，支持自动裁剪
 
 *   [yml2213/template](https://github.com/yml2213/template) - 教程专用仓库
 
