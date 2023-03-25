@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
 *   [CSS](#css)
@@ -23,7 +24,6 @@
 *   [Go](#go)
 *   [Python](#python)
 *   [Java](#java)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [C++](#c-2)
@@ -47,6 +47,70 @@
 *   [Makefile](#makefile)
 *   [Blade](#blade)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+
+*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+
+*   [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效UI。
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
+
+*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
+
+*   [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
+
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
+
+*   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -
+
+*   [chinayangxiaowei/marktext-chinese-language-pack](https://github.com/chinayangxiaowei/marktext-chinese-language-pack) - Simplified Chinese language pack for marktext
+
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) -  There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+
+*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+
+*   [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
+
+*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
+
+*   [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
+
+*   [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
+
+*   [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
+
+*   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
+
+*   [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
+
+*   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
+
+*   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
+
+*   [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
+
+*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
+
+*   [alist-org/web-v2](https://github.com/alist-org/web-v2) - 🗂️ The front end of Alist V2
+
+*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
+
+*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
+
+*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+
+*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
+
+*   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
 
 ## miscellaneous
 
@@ -470,68 +534,6 @@
 
 *   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）点击下方网站，马上开始刷题！
 
-## TypeScript
-
-*   [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
-
-*   [ZiYi0414/handsome-css3-lib](https://github.com/ZiYi0414/handsome-css3-lib) - Amazingly handsome Open-Source UI components made with HTML and CSS. Collection of very handsome CSS animations and special effects on the Internet（在网上收集各种帅气的CSS3特效和动画，按钮标题等各种好玩酷炫的特效组件，网站主旨在于收集网上仅靠 CSS 与 HTML 就可以实现的动效UI。
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
-
-*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-
-*   [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
-
-*   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -
-
-*   [chinayangxiaowei/marktext-chinese-language-pack](https://github.com/chinayangxiaowei/marktext-chinese-language-pack) - Simplified Chinese language pack for marktext
-
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) -  There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
-
-*   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
-
-*   [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - RedisInsight
-
-*   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
-
-*   [Mayandev/ikea-low-price](https://github.com/Mayandev/ikea-low-price) - 🧾 Showcasing IKEA's low-priced items ｜ 宜家折扣价商品｜宜家低价好物
-
-*   [H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx) - 快速高效搭建可视化拖拽平台
-
-*   [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
-
-*   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-
-*   [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
-
-*   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-
-*   [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
-
-*   [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - GitHub style split diffs in your terminal
-
-*   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
-
-*   [alist-org/web-v2](https://github.com/alist-org/web-v2) - 🗂️ The front end of Alist V2
-
-*   [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持python3、javaScript、shell、typescript 的定时任务管理软件（Timed task management software with python3, javaScript, shell, typescript support）
-
-*   [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
-*   [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - A Markdown Editor for the 21st century.
-
-*   [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
-
-*   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
-
-*   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
-
 ## JavaScript
 
 *   [quarkape/free-canvas](https://github.com/quarkape/free-canvas) - 一键免费下载标小智和标智客两个网站的高清无水印海报或LOGO，支持自动裁剪
@@ -781,8 +783,6 @@
 *   [rubickCenter/rubick](https://github.com/rubickCenter/rubick) - 🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。
 
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-
-*   [TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map) - 程序员技能图谱
 
 ## Kotlin
 
