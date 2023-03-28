@@ -16,8 +16,8 @@
 
 ## Table of Contents
 
-*   [Go](#go)
 *   [TypeScript](#typescript)
+*   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [C](#c)
 *   [CSS](#css)
@@ -48,67 +48,9 @@
 *   [Blade](#blade)
 *   [Thanks](#thanks)
 
-## Go
-
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
-
-*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
-
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-
-*   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
-
-*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
-
-*   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
-
-*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-
-*   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes
-
-*   [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
-
-*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-
-*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-
-*   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
-
-*   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
-
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-
-*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
-
-*   [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
-
-*   [XiaoMengXinX/Fuck163MusicTasks](https://github.com/XiaoMengXinX/Fuck163MusicTasks) - 网易云音乐自动签到、自动完成音乐人任务
-
-*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
-
-*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-
-*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-
-*   [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-
-*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-
-*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-
-*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
-
-*   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
-
 ## TypeScript
+
+*   [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 
 *   [yetone/openai-translator](https://github.com/yetone/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
@@ -171,6 +113,66 @@
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
 *   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
+
+## Go
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
+
+*   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
+
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+*   [go-gost/gost](https://github.com/go-gost/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+*   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
+
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
+
+*   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
+
+*   [ccfos/nightingale](https://github.com/ccfos/nightingale) - An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+
+*   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes
+
+*   [caarlos0/env](https://github.com/caarlos0/env) - A simple and zero-dependencies library to parse environment variables into structs.
+
+*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
+*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+
+*   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网最全大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
+
+*   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
+
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+
+*   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io
+
+*   [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
+
+*   [XiaoMengXinX/Fuck163MusicTasks](https://github.com/XiaoMengXinX/Fuck163MusicTasks) - 网易云音乐自动签到、自动完成音乐人任务
+
+*   [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
+
+*   [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+
+*   [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+
+*   [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+
+*   [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+
+*   [cookieY/Yearning](https://github.com/cookieY/Yearning) - 🐳 A most popular sql audit platform for mysql
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
+*   [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
+*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
+
+*   [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 
 ## miscellaneous
 
@@ -275,8 +277,6 @@
 *   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
 *   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
-
-*   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 
 ## C
 
