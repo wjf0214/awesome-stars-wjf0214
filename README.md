@@ -224,7 +224,7 @@
 
 *   [ThePBone/awesome-shizuku](https://github.com/ThePBone/awesome-shizuku) - Awesome list of Android apps making use of Shizuku
 
-*   [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
+*   [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh) - ChatGPT 中文指南，ChatGPT 中文调教指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!
 
 *   [dalinvip/Awesome-ChatGPT](https://github.com/dalinvip/Awesome-ChatGPT) - ChatGPT资料汇总学习，持续更新......
 
@@ -806,7 +806,7 @@
 
 ## Dart
 
-*   [ente-io/auth](https://github.com/ente-io/auth) - Authenticator app for storing your 2FA secrets
+*   [ente-io/auth](https://github.com/ente-io/auth) - Authenticator app for storing your 2FA secrets. Use https://web.ente.io/auth to view codes on desktop
 
 *   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
 
