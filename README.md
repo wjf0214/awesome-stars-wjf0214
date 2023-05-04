@@ -49,7 +49,7 @@
 
 ## JavaScript
 
-*   [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) -
+*   [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) - Honkai: Star Rail Warp History Exporter
 
 *   [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 
