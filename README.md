@@ -823,7 +823,7 @@
 
 ## Dart
 
-*   [ente-io/auth](https://github.com/ente-io/auth) - Authenticator app for storing your 2FA secrets. Use https://auth.ente.io/ to view codes on desktop
+*   [ente-io/auth](https://github.com/ente-io/auth) - ente Auth – store your 2FA secrets
 
 *   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
 
