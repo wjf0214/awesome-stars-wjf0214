@@ -698,7 +698,7 @@
 
 *   [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
 
-*   [JDHelloWorld/jd\_scripts](https://github.com/JDHelloWorld/jd_scripts) -
+*   [Toulu-debug/enen](https://github.com/Toulu-debug/enen) -
 
 *   [itorr/nbnhhsh](https://github.com/itorr/nbnhhsh) - 😩「能不能好好说话？」 拼音首字母缩写翻译工具
 
@@ -710,7 +710,7 @@
 
 *   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
-*   [qd-today/qd](https://github.com/qd-today/qd) - \[当前版本: 20230522] QD —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+*   [qd-today/qd](https://github.com/qd-today/qd) - \[v20230601] QD —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
@@ -926,7 +926,7 @@
 
 ## Go
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 现代化、开源的 Linux 服务器运维管理面板。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
 
 *   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
 
