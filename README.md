@@ -710,7 +710,7 @@
 
 *   [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 
-*   [qd-today/qd](https://github.com/qd-today/qd) - \[v20230601] QD —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
+*   [qd-today/qd](https://github.com/qd-today/qd) - \[v20230604] QD —— HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server
 
 *   [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 
