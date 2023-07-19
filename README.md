@@ -227,7 +227,7 @@
 
 ## miscellaneous
 
-*   [Luna-OSS/free-ai-apis](https://github.com/Luna-OSS/free-ai-apis) - This repository contains a list of free to use AI APIs. We are not endorsing any of the listed services!
+*   [NovaOSS/free-ai-apis](https://github.com/NovaOSS/free-ai-apis) - This repository contains a list of free to use AI APIs. We are not endorsing any of the listed services!
 
 *   [qd-today/templates](https://github.com/qd-today/templates) - 基于开源新版 QD 框架站发布的公共har模板库，仅供示例
 
@@ -681,7 +681,7 @@
 
 *   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, one-stop solution for your public\&private cloud.
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
 
 *   [hwholiday/learning\_tools](https://github.com/hwholiday/learning_tools) - Go 学习、Go 进阶、Go 实用工具类、Go DDD 项目落地、Go-kit 、Go-Micro 、Go 推送平台、微服务实践
 
@@ -995,7 +995,7 @@
 
 *   [killtimer0/ErrorCodeFinder](https://github.com/killtimer0/ErrorCodeFinder) - Windows 错误代码查询工具
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 
 *   [laruence/yaf](https://github.com/laruence/yaf) - Fast php framework written in c, built in php extension
 
