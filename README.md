@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [C#](#c)
 *   [Dart](#dart)
 *   [TypeScript](#typescript)
@@ -44,11 +45,16 @@
 *   [Perl](#perl)
 *   [Assembly](#assembly)
 *   [Svelte](#svelte)
-*   [Batchfile](#batchfile)
 *   [Astro](#astro)
 *   [Makefile](#makefile)
 *   [Blade](#blade)
 *   [Thanks](#thanks)
+
+## Batchfile
+
+*   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
+
+*   [neatgz/PotPlayer\_OneKey\_Tool](https://github.com/neatgz/PotPlayer_OneKey_Tool) - PotPlayer 绿色版一键下载、制作、更新工具
 
 ## C\#
 
@@ -359,8 +365,6 @@
 *   [KusakabeShi/free365](https://github.com/KusakabeShi/free365) - A collection of free office 365 registration site.
 
 *   [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
-
-*   [fynas/ua](https://github.com/fynas/ua) - 手机UA库，微信，浏览器，手机百度
 
 ## Python
 
@@ -1097,10 +1101,6 @@
 ## Svelte
 
 *   [daniel-hayes/today](https://github.com/daniel-hayes/today) - A minimal 24 hour todo list
-
-## Batchfile
-
-*   [neatgz/PotPlayer\_OneKey\_Tool](https://github.com/neatgz/PotPlayer_OneKey_Tool) - PotPlayer 绿色版一键下载、制作、更新工具
 
 ## Astro
 
