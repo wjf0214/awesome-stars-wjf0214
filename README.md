@@ -424,7 +424,7 @@
 
 *   [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 
-*   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap)
+*   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 
 *   [rev1si0n/lamda](https://github.com/rev1si0n/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化辅助框架，你的工作从未如此简单快捷。
 
