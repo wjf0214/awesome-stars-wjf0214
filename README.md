@@ -475,7 +475,7 @@
 
 *   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.
 
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
 
 *   [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
 
