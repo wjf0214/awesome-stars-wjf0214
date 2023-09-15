@@ -33,7 +33,6 @@
 *   [Vue](#vue)
 *   [AutoIt](#autoit)
 *   [Rust](#rust)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [PHP](#php)
 *   [C](#c-2)
 *   [MDX](#mdx)
@@ -472,6 +471,8 @@
 *   [Womsxd/MihoyoBBSTools](https://github.com/Womsxd/MihoyoBBSTools) -
 
 *   [LawRefBook/Laws](https://github.com/LawRefBook/Laws) -
+
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [abdeladim-s/subsai](https://github.com/abdeladim-s/subsai) - 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
 
@@ -954,10 +955,6 @@
 *   [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-
-## Jupyter Notebook
-
-*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 ## PHP
 
