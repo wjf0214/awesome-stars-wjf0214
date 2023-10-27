@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [AngelScript](#angelscript)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
@@ -47,8 +48,11 @@
 *   [Assembly](#assembly)
 *   [Svelte](#svelte)
 *   [Astro](#astro)
-*   [Makefile](#makefile)
 *   [Thanks](#thanks)
+
+## AngelScript
+
+*   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
 
 ## miscellaneous
 
@@ -1109,10 +1113,6 @@
 ## Astro
 
 *   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 5
-
-## Makefile
-
-*   [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
 ## Thanks
 
