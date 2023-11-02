@@ -43,6 +43,7 @@
 *   [Ruby](#ruby)
 *   [Elixir](#elixir)
 *   [Markdown](#markdown)
+*   [Less](#less)
 *   [Stylus](#stylus)
 *   [Perl](#perl)
 *   [Assembly](#assembly)
@@ -995,8 +996,6 @@
 
 *   [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
 
-*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-
 *   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
 ## AutoIt
@@ -1094,6 +1093,10 @@
 ## Markdown
 
 *   [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command) - Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux
+
+## Less
+
+*   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
 
 ## Stylus
 
