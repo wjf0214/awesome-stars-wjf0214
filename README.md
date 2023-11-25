@@ -44,7 +44,6 @@
 *   [Elixir](#elixir)
 *   [Markdown](#markdown)
 *   [Less](#less)
-*   [Stylus](#stylus)
 *   [Perl](#perl)
 *   [Assembly](#assembly)
 *   [Svelte](#svelte)
@@ -372,7 +371,7 @@
 
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run  https://sealos.io
 
 *   [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 
@@ -591,6 +590,8 @@
 *   [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) - 猫抓 chrome资源嗅探扩展
 
 *   [jyolo/wLogger](https://github.com/jyolo/wLogger) - wLogger 是一款集合 日志采集,日志解析持久化存储，web流量实时监控 。三位一体的web服务流量监控应用。 三大功能模块均可独立部署启用互不干扰。目前已内置 nginx 和 apache 的日志解析存储器，简单配置一下，开箱即用。
+
+*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 *   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
@@ -1097,10 +1098,6 @@
 ## Less
 
 *   [Tencent/weui](https://github.com/Tencent/weui) - A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.
-
-## Stylus
-
-*   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
 
 ## Perl
 
