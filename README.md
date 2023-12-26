@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [AutoIt](#autoit)
 *   [Python](#python)
 *   [C++](#c)
 *   [Go](#go)
@@ -34,7 +35,6 @@
 *   [Vue](#vue)
 *   [Batchfile](#batchfile)
 *   [HTML](#html)
-*   [AutoIt](#autoit)
 *   [C](#c-2)
 *   [CSS](#css)
 *   [MDX](#mdx)
@@ -52,6 +52,12 @@
 *   [Blade](#blade)
 *   [Jinja](#jinja)
 *   [Thanks](#thanks)
+
+## AutoIt
+
+*   [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+*   [ScorpioTM/WinLogs-Killer](https://github.com/ScorpioTM/WinLogs-Killer) - Clear diverses Logs and History Files saved by Windows.
 
 ## Python
 
@@ -1067,8 +1073,6 @@
 
 *   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 
-*   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
-
 ## Java
 
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
@@ -1204,10 +1208,6 @@
 *   [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
 
 *   [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
-
-## AutoIt
-
-*   [ScorpioTM/WinLogs-Killer](https://github.com/ScorpioTM/WinLogs-Killer) - Clear diverses Logs and History Files saved by Windows.
 
 ## C
 
