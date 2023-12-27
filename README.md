@@ -207,7 +207,7 @@
 
 *   [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 
-*   [MasonStooksbury/Free-Games](https://github.com/MasonStooksbury/Free-Games) - Literally just a script that is automatically ran via Windows Task Scheduler or Cron that logs into the Epic Games Store website and grabs the free games for the week.
+*   [MasonStooksbury/Free-Games](https://github.com/MasonStooksbury/Free-Games) - Please use the new-and-improved version that uses the Epic Games Desktop application instead of the web browser: https://github.com/MasonStooksbury/Free-Games-V2
 
 *   [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 
