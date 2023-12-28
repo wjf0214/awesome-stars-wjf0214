@@ -69,8 +69,6 @@
 
 *   [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 
-*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费；轻量；开源，基于 AIOHTTP 模块实现的小红书图文 / 视频作品采集工具
-
 *   [Abcuders/AutoAnimeMv](https://github.com/Abcuders/AutoAnimeMv) - 😊这是一个番剧自动识别剧名剧集+自动重命名+自动整理工具,用来配合QBittorrent实现Rss订阅下载全自动刮削一条龙到家式爽歪歪服务!
 
 *   [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
@@ -645,7 +643,7 @@
 
 *   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 
-*   [Millera0/private](https://github.com/Millera0/private) - This project has been deleted to avoid legal risks.
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
 
 *   [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) -
 
@@ -827,6 +825,8 @@
 
 *   [lecepin/WeChatVideoDownloader](https://github.com/lecepin/WeChatVideoDownloader) - 超方便的微信视频号下载器
 
+*   [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 免费；轻量；开源，基于 AIOHTTP 模块实现的小红书图文 / 视频作品采集工具
+
 *   [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 
 *   [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
@@ -965,7 +965,7 @@
 
 *   [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager \[GUI client], compatible with Linux, Windows, Mac.
 
-*   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
+*   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
 *   [ziye12/JavaScript](https://github.com/ziye12/JavaScript) -
 
