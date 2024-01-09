@@ -16,6 +16,8 @@
 
 ## Table of Contents
 
+*   [C](#c)
+*   [Kotlin](#kotlin)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
@@ -25,19 +27,17 @@
 *   [JavaScript](#javascript)
 *   [MDX](#mdx)
 *   [Dart](#dart)
-*   [Kotlin](#kotlin)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [AutoIt](#autoit)
-*   [C++](#c)
-*   [C#](#c-1)
+*   [C++](#c-1)
+*   [C#](#c-2)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
 *   [Svelte](#svelte)
 *   [AngelScript](#angelscript)
 *   [Vue](#vue)
 *   [Batchfile](#batchfile)
-*   [C](#c-2)
 *   [Roff](#roff)
 *   [Swift](#swift)
 *   [Vim Script](#vim-script)
@@ -50,12 +50,109 @@
 *   [Astro](#astro)
 *   [Makefile](#makefile)
 *   [Blade](#blade)
-*   [Jinja](#jinja)
 *   [Thanks](#thanks)
+
+## C
+
+*   [bmax121/KernelPatch](https://github.com/bmax121/KernelPatch) - Patching and hooking the Linux kernel with only a stripped Linux kernel image.
+
+*   [Chikage0o0/Linux-NetSpeed](https://github.com/Chikage0o0/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
+
+*   [killtimer0/ErrorCodeFinder](https://github.com/killtimer0/ErrorCodeFinder) - Windows 错误代码查询工具
+
+*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+
+*   [laruence/yaf](https://github.com/laruence/yaf) - Fast php framework written in c, built in php extension
+
+*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
+
+*   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
+
+*   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
+
+*   [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
+
+*   [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
+
+*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
+
+*   [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
+
+*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
+
+*   [y123456yz/reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕
+
+*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
+
+*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
+
+*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
+
+*   [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
+
+## Kotlin
+
+*   [bmax121/APatch](https://github.com/bmax121/APatch) - The patching of Android kernel and Android system
+
+*   [GangJust/FreedomPlus](https://github.com/GangJust/FreedomPlus) - 依赖于抖音运行的Xposed模块.
+
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
+
+*   [chr233/PureNGA](https://github.com/chr233/PureNGA) - NGA 去广告Xposed模块 支持 Lspatch
+
+*   [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) - An Activity folder.
+
+*   [xihan123/QDReadHook](https://github.com/xihan123/QDReadHook) - 起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验
+
+*   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
+
+*   [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
+
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
+
+*   [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
+
+*   [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector) - A library to detect suspicious apps like Magisk
+
+*   [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
+
+*   [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) - Fix the native notification bar icon function abandoned by the MIUI development team.
+
+*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的看番软件，支持多番剧源
+
+*   [aistra0528/Hail](https://github.com/aistra0528/Hail) - 冻结 Android 应用 Freeze Android apps
+
+*   [Simplicity-Team/WooBoxForMIUI](https://github.com/Simplicity-Team/WooBoxForMIUI) - 一个基于 MIUI13+(Android 12+) 适配的自定义工具 // A system extension Xposed module based on MIUI13+ (Android12+)
+
+*   [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
+
+*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
+
+*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 
 ## HTML
 
-*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具
+*   [cnymw/GolangStudy](https://github.com/cnymw/GolangStudy) - 《GolangStudy》：从简单到难最全总结，go基础，数据结构，算法，设计模式
+
+*   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，自动下载微信公众号的实时更新文章、历史文章的爬虫，支持图片、评论下载
 
 *   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
 
@@ -186,8 +283,6 @@
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
 *   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
-
-*   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 
 ## Rust
 
@@ -493,7 +588,7 @@
 
 *   [evilbutcher/QuantumultX](https://github.com/evilbutcher/QuantumultX) - 瞎写的QuantumultX的代码
 
-*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognize.
+*   [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 
 *   [SupaGruen/StableDiffusion-CheatSheet](https://github.com/SupaGruen/StableDiffusion-CheatSheet) - A list of StableDiffusion styles and some notes for offline use. Pure HTML, CSS and a bit of JS.
 
@@ -662,58 +757,6 @@
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 *   [xausky/DockerRegisterCloud](https://github.com/xausky/DockerRegisterCloud) - 基于 Docker 仓库协议的网盘客户端，可以将目前众多的免费容器仓库服务用于网盘。
-
-## Kotlin
-
-*   [GangJust/FreedomPlus](https://github.com/GangJust/FreedomPlus) - 依赖于抖音运行的Xposed模块.
-
-*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
-
-*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
-
-*   [GuoXiCheng/SKIP](https://github.com/GuoXiCheng/SKIP) - 自动跳过APP开屏广告
-
-*   [chr233/PureNGA](https://github.com/chr233/PureNGA) - NGA 去广告Xposed模块 支持 Lspatch
-
-*   [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) - An Activity folder.
-
-*   [xihan123/QDReadHook](https://github.com/xihan123/QDReadHook) - 起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验
-
-*   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
-
-*   [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
-
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
-
-*   [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
-
-*   [Dr-TSNG/ApplistDetector](https://github.com/Dr-TSNG/ApplistDetector) - A library to detect suspicious apps like Magisk
-
-*   [Dr-TSNG/Hide-My-Applist](https://github.com/Dr-TSNG/Hide-My-Applist) - An Xposed module to intercept applist detections
-
-*   [fankes/MIUINativeNotifyIcon](https://github.com/fankes/MIUINativeNotifyIcon) - Fix the native notification bar icon function abandoned by the MIUI development team.
-
-*   [easybangumiorg/EasyBangumi](https://github.com/easybangumiorg/EasyBangumi) - 纯纯看番，使用 Compose 开发的看番软件，支持多番剧源
-
-*   [aistra0528/Hail](https://github.com/aistra0528/Hail) - 冻结 Android 应用 Freeze Android apps
-
-*   [Simplicity-Team/WooBoxForMIUI](https://github.com/Simplicity-Team/WooBoxForMIUI) - 一个基于 MIUI13+(Android 12+) 适配的自定义工具 // A system extension Xposed module based on MIUI13+ (Android12+)
-
-*   [xjunz/AutoSkip](https://github.com/xjunz/AutoSkip) - 基于Shizuku授权的安卓"自动跳过"工具
-
-*   [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app\_process.
-
-*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-
-*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 
 ## Go
 
@@ -1223,46 +1266,6 @@
 
 *   [neatgz/PotPlayer\_OneKey\_Tool](https://github.com/neatgz/PotPlayer_OneKey_Tool) - PotPlayer 绿色版一键下载、制作、更新工具
 
-## C
-
-*   [Chikage0o0/Linux-NetSpeed](https://github.com/Chikage0o0/Linux-NetSpeed) - 将Linux现常用的网络加速集成在一起
-
-*   [killtimer0/ErrorCodeFinder](https://github.com/killtimer0/ErrorCodeFinder) - Windows 错误代码查询工具
-
-*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
-
-*   [laruence/yaf](https://github.com/laruence/yaf) - Fast php framework written in c, built in php extension
-
-*   [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) - SumatraPDF reader
-
-*   [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
-
-*   [robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.
-
-*   [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
-
-*   [zmap/zmap](https://github.com/zmap/zmap) - ZMap is a fast single packet network scanner designed for Internet-wide network surveys.
-
-*   [FreeRDP/FreeRDP](https://github.com/FreeRDP/FreeRDP) - FreeRDP is a free remote desktop protocol library and clients
-
-*   [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.
-
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-
-*   [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.
-
-*   [henrypp/memreduct](https://github.com/henrypp/memreduct) - Lightweight real-time memory management application to monitor and clean system memory on your computer.
-
-*   [y123456yz/reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2) - nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕
-
-*   [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
-
-*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
-
-*   [zhaojh329/rtty](https://github.com/zhaojh329/rtty) - 🐛 Access your terminal from anywhere via the web.
-
-*   [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
-
 ## Roff
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -1316,12 +1319,6 @@
 ## Blade
 
 *   [hrshadhin/school-management-system](https://github.com/hrshadhin/school-management-system) - Another School Management System
-
-*   [lsky-org/lsky-pro](https://github.com/lsky-org/lsky-pro) - ☁️兰空图床(Lsky Pro) - Your photo album on the cloud.
-
-## Jinja
-
-*   [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
 
 ## Thanks
 
