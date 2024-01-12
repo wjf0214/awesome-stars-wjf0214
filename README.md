@@ -444,7 +444,7 @@
 
 *   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
-*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
+*   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
@@ -820,7 +820,7 @@
 
 *   [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
 
-*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云、Dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
+*   [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Automatically update domain name resolution to public IP (Support Aliyun, Tencent, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...)
 
 *   [TencentBlueKing/bk-cmdb](https://github.com/TencentBlueKing/bk-cmdb) - 蓝鲸智云配置平台(BlueKing CMDB)
 
