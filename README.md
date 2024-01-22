@@ -604,7 +604,7 @@
 
 *   [jing332/tts-server-android](https://github.com/jing332/tts-server-android) - 这是一个Android系统TTS应用，内置微软演示接口，可自定义HTTP请求，可导入其他本地TTS引擎，以及根据中文双引号的简单旁白/对话识别朗读 ，还有自动重试，备用配置，文本替换等更多功能。
 
-*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
+*   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 
 *   [z-huang/InnerTune](https://github.com/z-huang/InnerTune) - A Material 3 YouTube Music client for Android
 
