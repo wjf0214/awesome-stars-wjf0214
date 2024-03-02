@@ -136,6 +136,8 @@
 
 *   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
 
+*   [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos
+
 *   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 
 *   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
@@ -1037,8 +1039,6 @@
 *   [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 
 *   [wanghongenpin/network\_proxy\_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - Open source free packet capture software ProxyPin, supporting full platform systems, developed using the Flutter framework
-
-*   [ente-io/auth](https://github.com/ente-io/auth) - 2FA app for Android, iOS and web, with free end-to-end encrypted backup and sync
 
 *   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。
 
