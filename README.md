@@ -148,7 +148,7 @@
 
 *   [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 
-*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
+*   [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Support our Product Hunt launch 👇
 
 *   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
 
