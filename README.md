@@ -176,7 +176,7 @@
 
 *   [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
-*   [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
+*   [Redis-Insight/Redis-Insight](https://github.com/Redis-Insight/Redis-Insight) - Redis GUI by Redis
 
 *   [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 electron 的音乐软件
 
