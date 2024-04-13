@@ -650,7 +650,7 @@
 
 *   [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 
-*   [LGH1996/TapClick](https://github.com/LGH1996/TapClick) - TapClick，一款居于Android无障碍服务的自动化点击工具，可用于自动跳过广告，自动关闭弹窗，以及其他的一些自动点击操作。
+*   [LGH1996/TapClick](https://github.com/LGH1996/TapClick) - 自动化点击工具，可用于自动跳过广告，自动关闭弹窗，以及其他的一些自动点击操作。
 
 *   [Mino260806/MessengerPro](https://github.com/Mino260806/MessengerPro) - A mod that enhances Facebook Messenger with loads of powerful features !
 
@@ -684,7 +684,7 @@
 
 *   [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
 
-*   [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - HertzBeat is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 
 *   [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" (^o^)/~
 
