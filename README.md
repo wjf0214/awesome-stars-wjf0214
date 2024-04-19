@@ -652,7 +652,7 @@
 
 *   [Tornaco/Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 
-*   [LGH1996/TapClick](https://github.com/LGH1996/TapClick) - 自动化点击工具，可用于自动跳过广告，自动关闭弹窗，以及其他的一些自动点击操作。
+*   [LGH1996/TapClick](https://github.com/LGH1996/TapClick) - Android史上最强大的跳过广告工具
 
 *   [Mino260806/MessengerPro](https://github.com/Mino260806/MessengerPro) - A mod that enhances Facebook Messenger with loads of powerful features !
 
