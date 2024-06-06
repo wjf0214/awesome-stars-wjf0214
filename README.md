@@ -354,7 +354,7 @@
 
 *   [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot) - A simple, modern server dashboard, primarily used by smaller private servers
 
-*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 网络资源嗅探资源下载器，支持: 微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载!
+*   [putyy/res-downloader](https://github.com/putyy/res-downloader) - 微信视频号、小程序、抖音、快手、小红书、酷狗音乐、qq音乐等网络资源下载!
 
 *   [radishes-music/radishes](https://github.com/radishes-music/radishes) - Cross-platform copyright-free music platform（跨平台的无版权的音乐平台）. 支持 windows / macos / linux / web
 
@@ -486,7 +486,7 @@
 
 ## miscellaneous
 
-*   [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 第三方阿里云盘桌面应用客户端
+*   [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 云盘桌面应用客户端
 
 *   [mengzehe/TV](https://github.com/mengzehe/TV) - TVBox自用源以及仓库源、直播源等
 
@@ -578,7 +578,7 @@
 
 *   [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
 
-*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入法方案和配置列表
+*   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
 
 *   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
 
