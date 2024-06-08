@@ -488,7 +488,7 @@
 
 *   [InfpHub/Raptor](https://github.com/InfpHub/Raptor) - 云盘桌面应用客户端
 
-*   [mengzehe/TV](https://github.com/mengzehe/TV) - TVBox自用源以及仓库源、直播源等
+*   [880824/TV](https://github.com/880824/TV) - TVBox自用源以及仓库源、直播源等
 
 *   [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
