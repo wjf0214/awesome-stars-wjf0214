@@ -335,8 +335,6 @@
 
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
-
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
 
 *   [gkd-kit/subscription](https://github.com/gkd-kit/subscription) - GKD 默认订阅规则
@@ -510,6 +508,8 @@
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
 *   [MetaCubeX/Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
+
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.
 
 *   [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 
