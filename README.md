@@ -869,7 +869,7 @@
 
 *   [MetaCubeX/Clash.Mini](https://github.com/MetaCubeX/Clash.Mini) - Clash.Mini
 
-*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your websites from attacks and exploits.
+*   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 
 *   [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
 
