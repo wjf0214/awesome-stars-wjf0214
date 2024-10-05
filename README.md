@@ -234,8 +234,6 @@
 
 *   [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 
-*   [msojocs/fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - Fiddler Everywhere is a secure and modern web debugging proxy for macOS, Windows, and Linux.
-
 *   [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 
 *   [dream7180/foobox-cn](https://github.com/dream7180/foobox-cn) - DUI 配置 for foobar2000
@@ -732,6 +730,8 @@
 
 *   [TIM168/technical\_books](https://github.com/TIM168/technical_books) - :books:🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中:hotsprings:
 
+*   [msojocs/fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - Fiddler Everywhere is a secure and modern web debugging proxy for macOS, Windows, and Linux.
+
 *   [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -1008,7 +1008,7 @@
 
 *   [xuchengsheng/wx-dump-4j](https://github.com/xuchengsheng/wx-dump-4j) - 一款基于Java开发的微信数据分析工具。
 
-*   [Eanya-Tonic/CCTV\_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款基于tv.cctv.com和央视频的简易电视直播收看软件，用于方便的在机顶盒上收看电视节目
+*   [Eanya-Tonic/CCTV\_Viewer](https://github.com/Eanya-Tonic/CCTV_Viewer) - 电视浏览器，一款简易电视视频收看软件，用于方便的在机顶盒上收看网页视频
 
 *   [dromara/SMS4J](https://github.com/dromara/SMS4J) - 让简单的事情回归简单的本质。 SMS4J为短信聚合框架，帮您轻松集成多家短信服务，解决接入多个短信SDK的繁琐流程。 目前已接入数家常见的短信服务商，后续将会继续集成。后续的版本中我们还将推出更多的相关功能 你的 ⭐️ ⭐️⭐️Star⭐️⭐️ ⭐️，是我的动力！如果你觉得还不错，请点上一颗小星星
 
