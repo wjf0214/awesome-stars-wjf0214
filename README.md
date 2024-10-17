@@ -16,6 +16,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -33,7 +34,6 @@
 *   [Go](#go)
 *   [Vue](#vue)
 *   [C++](#c-2)
-*   [Batchfile](#batchfile)
 *   [Rust](#rust)
 *   [Swift](#swift)
 *   [CSS](#css)
@@ -52,6 +52,18 @@
 *   [Perl](#perl)
 *   [Assembly](#assembly)
 *   [Thanks](#thanks)
+
+## Batchfile
+
+*   [matej137/OutlookRemover](https://github.com/matej137/OutlookRemover) - a little batch file that permanently removes the Outlook (New) app from Windows 10/11
+
+*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
+
+*   [neatgz/PotPlayer\_OneKey\_Tool](https://github.com/neatgz/PotPlayer_OneKey_Tool) - PotPlayer 绿色版一键下载、制作、更新工具
 
 ## miscellaneous
 
@@ -441,7 +453,7 @@
 
 *   [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 
-*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
+*   [xaboy/form-create](https://github.com/xaboy/form-create) - :fire::fire::fire: 强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。
 
 *   [XIU2/UserScript](https://github.com/XIU2/UserScript) - 🐵 自用的一些乱七八糟 油猴脚本~
 
@@ -496,8 +508,6 @@
 *   [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 
 *   [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-
-*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## Dockerfile
 
@@ -1198,16 +1208,6 @@
 *   [cppla/ServerStatus](https://github.com/cppla/ServerStatus) - 云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/
 
 *   [SpriteOvO/Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke) - Telegram anti-revoke plugin
-
-## Batchfile
-
-*   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
-
-*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-
-*   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
-
-*   [neatgz/PotPlayer\_OneKey\_Tool](https://github.com/neatgz/PotPlayer_OneKey_Tool) - PotPlayer 绿色版一键下载、制作、更新工具
 
 ## Rust
 
