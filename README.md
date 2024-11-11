@@ -166,7 +166,7 @@
 
 *   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 
-*   [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ Android reverse engineering & automation framework | 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证 ALL-IN-ONE 框架，你的工作从未如此简单快捷。
+*   [firerpa/lamda](https://github.com/firerpa/lamda) - ⚡️ 史上最强安卓抓包/逆向/HOOK & 云手机/远程桌面/自动化取证 ALL-IN-ONE，安卓 RPA 机器人框架，下一代移动端数据自动化机器人。
 
 *   [pypa/pipenv](https://github.com/pypa/pipenv) -  Python Development Workflow for Humans.
 
