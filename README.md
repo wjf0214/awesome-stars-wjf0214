@@ -638,8 +638,6 @@
 
 *   [biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export) - Honkai: Star Rail Warp History Exporter
 
-*   [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
-
 *   [dice2o/BingGPT](https://github.com/dice2o/BingGPT) - Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
 
 *   [quarkape/free-canvas](https://github.com/quarkape/free-canvas) - 一键免费下载在线LOGO设计网站的高清无水印海报或LOGO，支持裁剪功能
@@ -733,6 +731,8 @@
 *   [lkeme/BiliveKeepHeart](https://github.com/lkeme/BiliveKeepHeart) - bilibili-pcheartbeat
 
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
+
+*   [plotly/falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅
 
 ## Dockerfile
 
