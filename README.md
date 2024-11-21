@@ -45,7 +45,6 @@
 *   [Vim Script](#vim-script)
 *   [Ruby](#ruby)
 *   [Elixir](#elixir)
-*   [Vim Snippet](#vim-snippet)
 *   [Markdown](#markdown)
 *   [Less](#less)
 *   [Perl](#perl)
@@ -400,9 +399,9 @@
 
 *   [sudoskys/Root](https://github.com/sudoskys/Root) - ？什么你说Root？我不到啊  | 致力于编写全面详细的Root教程文档 | 刷机 | 安卓
 
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
 *   [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 
 *   [Cyril0563/lanjing\_live](https://github.com/Cyril0563/lanjing_live) - 🐋蓝鲸直播源-长期维护的电视直播源接口、TVBox、Pluto Player、猫影视TV、IPTV、BIUBIU TV、IPTV源、直播源、源享家、蓝鲸直播源、等影视及m3u8播放器通用接口都可观看
 
@@ -564,7 +563,7 @@
 
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
-*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can run any Docker image on sealos, start high availability databases like mysql/pgsql/redis/mongo, develop applications using any Programming language.
+*   [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and run any docker image.
 
 *   [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 
@@ -742,7 +741,7 @@
 
 *   [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
 
-*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and v2fly core and others
+*   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows and Linux, support Xray core and others
 
 *   [nilaoda/N\_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 
@@ -913,6 +912,8 @@
 *   [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
 
 *   [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 *   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
@@ -1299,10 +1300,6 @@
 ## Elixir
 
 *   [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-
-## Vim Snippet
-
-*   [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 
 ## Markdown
 
