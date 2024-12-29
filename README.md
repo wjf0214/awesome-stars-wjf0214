@@ -807,7 +807,7 @@
 
 *   [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.  🪄 ⭐
 
-*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 桌面助手：超级热键，AI 助手，通用输入法状态跟踪提示。
+*   [aardio/ImTip](https://github.com/aardio/ImTip) - ImTip 桌面助手：输入跟踪提示 + 超级热键 + 自定义 AI 助手，仅 800 KB
 
 *   [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释 - An ultra-simplified explanation to design patterns
 
