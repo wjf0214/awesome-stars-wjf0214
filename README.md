@@ -41,6 +41,7 @@
 *   [AutoIt](#autoit)
 *   [Svelte](#svelte)
 *   [AngelScript](#angelscript)
+*   [PowerShell](#powershell)
 *   [Roff](#roff)
 *   [Vim Script](#vim-script)
 *   [Ruby](#ruby)
@@ -767,8 +768,6 @@
 
 *   [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 
-*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
 *   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 
 *   [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify and other apps. 一款为 Spotify 等各种应用提供滚动歌词的软件。
@@ -1476,6 +1475,10 @@
 ## AngelScript
 
 *   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
+
+## PowerShell
+
+*   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
 
 ## Roff
 
