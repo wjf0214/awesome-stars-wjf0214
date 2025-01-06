@@ -262,7 +262,7 @@
 
 *   [LSPosed/LSPosed.github.io](https://github.com/LSPosed/LSPosed.github.io) -
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 *   [TIM168/technical\_books](https://github.com/TIM168/technical_books) - :books:🔥收集全网最热门的技术书籍 (GO、黑客、Android、计算机原理、人工智能、大数据、机器学习、数据库、PHP、java、架构、消息队列、算法、python、爬虫、操作系统、linux、C语言)，不间断更新中:hotsprings:
 
