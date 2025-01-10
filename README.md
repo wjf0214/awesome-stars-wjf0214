@@ -250,7 +250,7 @@
 
 ## Shell
 
-*   [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android root apps, Magisk modules, LSPosed modules and tools,tricks and guides.
+*   [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
 
 *   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
 
