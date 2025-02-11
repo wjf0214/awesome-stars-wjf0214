@@ -627,7 +627,7 @@
 
 *   [dompling/Scriptable](https://github.com/dompling/Scriptable) - scriptable widget
 
-*   [CenBoMin/QuantumultX](https://github.com/CenBoMin/QuantumultX) - 自用配置 不定时更改
+*   [CenBoMin/QX\_Scripts](https://github.com/CenBoMin/QX_Scripts) - 自用配置 不定时更改
 
 *   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
