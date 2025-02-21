@@ -1215,7 +1215,7 @@
 
 *   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
-*   [ente-io/ente](https://github.com/ente-io/ente) - Fully Open Source, End-to-End Encrypted Cloud
+*   [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
 
 *   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
 
@@ -1345,7 +1345,7 @@
 
 *   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
 
 *   [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) - Learn and understand Docker\&Container technologies, with real DevOps practice!
 
