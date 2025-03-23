@@ -597,6 +597,8 @@
 
 *   [makazeu/AnotherSteamCommunityFix](https://github.com/makazeu/AnotherSteamCommunityFix) - 通过修改hosts转发HTTP请求的方式临时性修复SteamCommunity在中国大陆无法访问的小工具
 
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+
 ## Roff
 
 *   [wangzhenjjcn/AdobeGenp](https://github.com/wangzhenjjcn/AdobeGenp) - AdobeGenp Adobe Adobe CC 2019/2020(2021/2022/2023/2024/2025TEST) GenP Universal Patch
@@ -812,8 +814,6 @@
 *   [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
 
 *   [dompling/Scriptable](https://github.com/dompling/Scriptable) - scriptable widget
-
-*   [CenBoMin/QX\_Scripts](https://github.com/CenBoMin/QX_Scripts) - 自用配置 不定时更改
 
 *   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
