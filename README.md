@@ -53,6 +53,7 @@
 *   [Makefile](#makefile)
 *   [Blade](#blade)
 *   [Jinja](#jinja)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Thanks](#thanks)
 
 ## Shell
@@ -281,10 +282,6 @@
 
 *   [guofei9987/blind\_watermark](https://github.com/guofei9987/blind_watermark) - Blind\&Invisible Watermark ，图片盲水印，提取水印无须原图！
 
-*   [BlueSkyClouds/My-Actions](https://github.com/BlueSkyClouds/My-Actions) - 爱奇艺会员签到抽奖,腾讯视频会员签到,哔哩哔哩签到,中国电信签到,V2ex签到,哔咔漫画签到,百度贴吧自动签到
-
-*   [srcrs/UnicomTask](https://github.com/srcrs/UnicomTask) - 联通手机营业厅自动做任务、签到、领流量、领积分等。
-
 *   [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) - github release、archive以及项目文件的加速项目
 
 *   [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
@@ -294,8 +291,6 @@
 *   [testerSunshine/12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 
 *   [zhaipro/easy12306](https://github.com/zhaipro/easy12306) - 使用机器学习算法完成对12306验证码的自动识别
-
-*   [Zero-S1/xmly\_speed](https://github.com/Zero-S1/xmly_speed) - xmly\_speed
 
 *   [Tooruchan/Telegram-CAPTCHA-Bot](https://github.com/Tooruchan/Telegram-CAPTCHA-Bot) - 基于Pyrogram的Telegram加群验证机器人开源实现。本仓库已停止更新，请移步至: https://github.com/Tooruchan/Telegram-CAPTCHA-bot-pyrogram
 
@@ -310,6 +305,8 @@
 *   [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules) - 提供多款 Shadowrocket 规则，带广告过滤功能。用于 iOS 未越狱设备选择性地自动翻墙。
 
 *   [hanc00l/wifitest](https://github.com/hanc00l/wifitest) - 一个简单的wifi弱口令暴破的python脚本，可自动实时破解，不需要使用aircrack-ng抓包
+
+*   [knazeri/edge-connect](https://github.com/knazeri/edge-connect) - EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212
 
 ## miscellaneous
 
@@ -455,8 +452,6 @@
 
 *   [guanguans/design-patterns-for-humans-cn](https://github.com/guanguans/design-patterns-for-humans-cn) - 设计模式超简单的解释 - An ultra-simplified explanation to design patterns
 
-*   [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome) - :computer: 🎉 An awesome & curated list of best applications and tools for Windows.
-
 *   [wjf0214/wjf0214](https://github.com/wjf0214/wjf0214) -
 
 *   [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
@@ -478,8 +473,6 @@
 *   [freefq/free](https://github.com/freefq/free) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子
 
 *   [yangtingxiao/QuantumultX](https://github.com/yangtingxiao/QuantumultX) - 脚本，自用
-
-*   [sngxpro/AutoSyncScript](https://github.com/sngxpro/AutoSyncScript) -
 
 *   [wjf0214/AutoSyncScript](https://github.com/wjf0214/AutoSyncScript) -
 
@@ -507,9 +500,9 @@
 
 *   [colinlet/PHP-Interview-QA](https://github.com/colinlet/PHP-Interview-QA) - PHP面试问答
 
-*   [wjf0214/cloud189-action](https://github.com/wjf0214/cloud189-action) - 天翼云盘自动签到 + 抽奖
-
 *   [lework/RedisDesktopManager-Windows](https://github.com/lework/RedisDesktopManager-Windows) - RedisDesktopManager Windows版本
+
+*   [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 
 ## Go
 
@@ -598,6 +591,8 @@
 *   [makazeu/AnotherSteamCommunityFix](https://github.com/makazeu/AnotherSteamCommunityFix) - 通过修改hosts转发HTTP请求的方式临时性修复SteamCommunity在中国大陆无法访问的小工具
 
 *   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+
+*   [ehang-io/nps](https://github.com/ehang-io/nps) - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
 
 ## Roff
 
@@ -795,8 +790,6 @@
 
 *   [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 
-*   [ziye12/JavaScript](https://github.com/ziye12/JavaScript) -
-
 *   [liyupi/daxigua](https://github.com/liyupi/daxigua) - 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
 
 *   [Tartarus2014/Script](https://github.com/Tartarus2014/Script) -
@@ -815,6 +808,10 @@
 
 *   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 
+*   [kanasimi/work\_crawler](https://github.com/kanasimi/work_crawler) - Download comics novels 小说漫画下载工具 小説漫画のダウンローダ 小說漫畫下載:腾讯漫画 大角虫漫画 有妖气 咪咕 SF漫画 哦漫画 看漫画 漫画柜 汗汗酷漫 動漫伊甸園 快看漫画 微博动漫 733动漫网 大古漫画网 漫画DB 無限動漫 動漫狂 卡推漫画 动漫之家 动漫屋 古风漫画网 36漫画网 亲亲漫画网 乙女漫画 webtoons 咚漫 ニコニコ静画 ComicWalker ヤングエースUP モアイ pixivコミック サイコミ;アルファポリス カクヨム ハーメルン 小説家になろう 起点中文网 八一中文网 顶点小说 落霞小说网 努努书坊 笔趣阁→epub.
+
+*   [itgoyo/Aria2](https://github.com/itgoyo/Aria2) - 突破百度云限速合集，另外附带Baidu-Go、Tampermonkey、Proxyee-down教程。从此云端女友从不断线，有了这个它，忘掉那个她!
+
 ## Dockerfile
 
 *   [wjf0214/docker-lnmp](https://github.com/wjf0214/docker-lnmp) - 自用快速构建 LNMP开发环境，自由切换服务版本；
@@ -824,8 +821,6 @@
 ## C++
 
 *   [BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk) - The Next Generation of Anti-Rookit(ARK) tool for Windows.
-
-*   [yuzu-mirror/yuzu](https://github.com/yuzu-mirror/yuzu) - Nintendo Switch emulator (unofficial mirror fork)
 
 *   [daboynb/PlayIntegrityNEXT](https://github.com/daboynb/PlayIntegrityNEXT) -
 
@@ -923,8 +918,6 @@
 
 *   [turms-im/turms](https://github.com/turms-im/turms) - 🕊️ The world's most advanced open source instant messaging engine for 100K~10M concurrent users https://turms-im.github.io/docs
 
-*   [crazyandcoder/citypicker](https://github.com/crazyandcoder/citypicker) - citypicker城市选择器，详细的省市区地址信息，支持仿iOS滚轮实现，仿京东样式，一级或者三级列表展示方式。
-
 *   [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 
 *   [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
@@ -934,6 +927,8 @@
 *   [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
 
 *   [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
+
+*   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
 
 ## Kotlin
 
@@ -1049,8 +1044,6 @@
 
 *   [koishijs/koishi](https://github.com/koishijs/koishi) - Cross-platform chatbot framework made with love
 
-*   [weekend-project-space/chatgpt-sites](https://github.com/weekend-project-space/chatgpt-sites) - ChatGPT 在线体验免费网站列表，免费的 ChatGPT 。定时任务每日更新，点击下面链接探索更多ai使用技巧和有趣应用
-
 *   [ChatAnyTeam/ChatAny](https://github.com/ChatAnyTeam/ChatAny) - 🌻 一键拥有你自己的 ChatGPT+众多AI 网页服务 | One click access to your own ChatGPT+Many AI web services
 
 *   [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -1132,6 +1125,8 @@
 *   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
 
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+
+*   [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 
 ## C\#
 
@@ -1247,8 +1242,6 @@
 
 *   [jqhph/dcat-admin](https://github.com/jqhph/dcat-admin) - 🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码
 
-*   [yitd/Any-Proxy](https://github.com/yitd/Any-Proxy) - Any-Proxy可以用PHP帮助你完美匿名反向代理浏览任何网站
-
 *   [pushaowei/arithmetic-php](https://github.com/pushaowei/arithmetic-php) - 🍭🍭 如果说各种编程语言是程序员的招式,那么数据结构和算法就相当于程序员的内功  ,用PHP的方式来修炼内功吧
 
 *   [ZainCheung/netease-cloud-api](https://github.com/ZainCheung/netease-cloud-api) - 网易云音乐升级API
@@ -1298,6 +1291,8 @@
 *   [guzzle/guzzle](https://github.com/guzzle/guzzle) - Guzzle, an extensible PHP HTTP client
 
 *   [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you
+
+*   [yiisoft/yii2](https://github.com/yiisoft/yii2) - Yii 2: The Fast, Secure and Professional PHP Framework
 
 ## Dart
 
@@ -1362,6 +1357,10 @@
 *   [PanDownloadServer/Server](https://github.com/PanDownloadServer/Server) - PanDownload的个人维护版本
 
 *   [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
+
+*   [qqphp/laravel\_blog](https://github.com/qqphp/laravel_blog) - Laravel诗词博客-匠心编程，热爱生活。喜欢就 Star 吧
+
+*   [ewen0930/PhpStorm-Chinese](https://github.com/ewen0930/PhpStorm-Chinese) - PhpStorm Chinese Language Pack（中文语言包）
 
 ## Astro
 
@@ -1528,6 +1527,10 @@
 ## Jinja
 
 *   [easzlab/kubeasz](https://github.com/easzlab/kubeasz) - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+
+## Jupyter Notebook
+
+*   [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) - Python - 100天从新手到大师
 
 ## Thanks
 
