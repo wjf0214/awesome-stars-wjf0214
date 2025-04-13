@@ -1104,7 +1104,7 @@
 
 *   [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 
-*   [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。
+*   [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal是一款简单、好用、安全的交互审计系统，支持RDP、SSH、VNC、Telnet，HTTP协议。
 
 *   [AlistGo/web-v2](https://github.com/AlistGo/web-v2) - 🗂️ The front end of Alist V2
 
