@@ -59,7 +59,7 @@
 
 *   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
 
-*   [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - A curated collection of best Android Root Apps (Apps that use root permission), Magisk modules, LSPosed modules and comprehensive rooting & troubleshooting guides.
+*   [fynks/awesome-android-root](https://github.com/fynks/awesome-android-root) - ⚡ Supercharge your Android! Your go-to awesome list for top root apps, Magisk & LSPosed modules, essential tools & guides for enhanced control and ultimate device customization.
 
 *   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
 
