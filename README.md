@@ -23,6 +23,7 @@
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [Rust](#rust)
+*   [Vim Snippet](#vim-snippet)
 *   [Dockerfile](#dockerfile)
 *   [C++](#c)
 *   [Kotlin](#kotlin)
@@ -479,8 +480,6 @@
 
 *   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - End to end, Offline, high speed, and privately self-host free version of Google Translate - 低占用速度快可私有部署的离线版 Google 翻译
 
-*   [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
-
 *   [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh) - Obsidian 优秀中文插件、主题与资源
 
 *   [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
@@ -756,6 +755,10 @@
 *   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+## Vim Snippet
+
+*   [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
 
 ## Dockerfile
 
@@ -1127,7 +1130,7 @@
 
 *   [ente-io/ente](https://github.com/ente-io/ente) - 🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
 
-*   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - A comic browser，support Android / iOS / MacOS / Windows / Linux.
+*   [niuhuan/pikapika](https://github.com/niuhuan/pikapika) - 哔咔漫画三方。A comic browser，support Android / iOS / MacOS / Windows / Linux.
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
