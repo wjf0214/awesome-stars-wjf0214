@@ -682,7 +682,7 @@
 
 ## Java
 
-*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 练习的一个看片儿的空盒子软件，需自行配置源
+*   [Tosencen/XMBOX](https://github.com/Tosencen/XMBOX) - 一个看片儿的空盒子软件，需自行配置源
 
 *   [HdShare/WAuxiliary\_Plugin](https://github.com/HdShare/WAuxiliary_Plugin) - WeChat Auxiliary Plugin
 
