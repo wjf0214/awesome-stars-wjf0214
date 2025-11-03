@@ -277,8 +277,6 @@
 
 *   [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 
-*   [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage single-player game cheats for your convenience
-
 *   [LeslieLeung/opensource-lighthouse](https://github.com/LeslieLeung/opensource-lighthouse) - 汇总统计各「大厂」的开源团队和项目。
 
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -833,6 +831,8 @@
 
 *   [osm0sis/PlayIntegrityFork](https://github.com/osm0sis/PlayIntegrityFork) - Fix Play Integrity \<A13 verdicts, allowing custom fields and props
 
+*   [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager) - Easily download and manage single-player game cheats for your convenience
+
 *   [daboynb/PlayIntegrityNEXT](https://github.com/daboynb/PlayIntegrityNEXT) -
 
 *   [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) - Make a fortune quietly
@@ -979,7 +979,7 @@
 
 *   [sleuthkit/autopsy](https://github.com/sleuthkit/autopsy) - Autopsy® is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It can be used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
 
-*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+*   [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 
 *   [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" (^o^)/~
 
