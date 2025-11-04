@@ -16,8 +16,8 @@
 
 ## Table of Contents
 
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
+*   [Shell](#shell)
 *   [Swift](#swift)
 *   [Perl](#perl)
 *   [Python](#python)
@@ -55,59 +55,9 @@
 *   [Jinja](#jinja)
 *   [Thanks](#thanks)
 
-## Shell
-
-*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
-
-*   [daboynb/playcurlNEXT](https://github.com/daboynb/playcurlNEXT) -
-
-*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
-
-*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
-
-*   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
-
-*   [wjf0214/Magisk-MoveCACerts](https://github.com/wjf0214/Magisk-MoveCACerts) - 这是一个 Magisk 模块，用于将自定义CA证书添加到系统信任存储区。支持安卓14。
-
-*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
-
-*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
-
-*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
-
-*   [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
-
-*   [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
-
-*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-
-*   [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
-
-*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-
-*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-
-*   [streamlink/windows-builds](https://github.com/streamlink/windows-builds) - Windows installer and portable archive builds for Streamlink.
-
-*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
-
-*   [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
-
-*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-
-*   [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
-
-*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
-
-*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
-
-*   [dylanbai8/kmspro](https://github.com/dylanbai8/kmspro) - windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器
-
-*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
-
 ## TypeScript
+
+*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 
@@ -236,6 +186,58 @@
 *   [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)
 
 *   [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
+
+## Shell
+
+*   [233boy/v2ray](https://github.com/233boy/v2ray) - 最好用的 V2Ray 一键安装脚本 & 管理脚本
+
+*   [daboynb/playcurlNEXT](https://github.com/daboynb/playcurlNEXT) -
+
+*   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
+
+*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
+
+*   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
+
+*   [wjf0214/Magisk-MoveCACerts](https://github.com/wjf0214/Magisk-MoveCACerts) - 这是一个 Magisk 模块，用于将自定义CA证书添加到系统信任存储区。支持安卓14。
+
+*   [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
+
+*   [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
+
+*   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
+
+*   [NoName-exe/revanced-extended](https://github.com/NoName-exe/revanced-extended) - ReVanced eXtended YT and YT-M for both root and non-root users.
+
+*   [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module) - Extensive ReVanced builder. Builds both modules and APKs. Updated daily.
+
+*   [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+
+*   [lukechilds/zsh-nvm](https://github.com/lukechilds/zsh-nvm) - Zsh plugin for installing, updating and loading nvm
+
+*   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+
+*   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
+
+*   [streamlink/windows-builds](https://github.com/streamlink/windows-builds) - Windows installer and portable archive builds for Streamlink.
+
+*   [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
+
+*   [KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost) - 致力于最简单好用的GOST小白脚本
+
+*   [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+
+*   [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+
+*   [jinwyp/one\_click\_script](https://github.com/jinwyp/one_click_script) - install latest or LTS linux kernel and enable BBR or BBR plus
+
+*   [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
+
+*   [dylanbai8/kmspro](https://github.com/dylanbai8/kmspro) - windows系统一句命令激活，office套件一句命令激活，一键搭建kms服务器，kms一键脚本，安卓Android搭建kms服务器
+
+*   [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 
 ## Swift
 
@@ -1374,8 +1376,6 @@
 *   [jxlwqq/id-validator](https://github.com/jxlwqq/id-validator) - 中华人民共和国居民身份证、中华人民共和国港澳居民居住证以及中华人民共和国台湾居民居住证号码验证工具（PHP 版）
 
 *   [louislivi/SMProxy](https://github.com/louislivi/SMProxy) - Swoole MySQL Proxy 一个基于 MySQL 协议，Swoole 开发的MySQL数据库连接池。 A MySQL database connection pool based on MySQL protocol and Swoole.
-
-*   [mix-php/mix](https://github.com/mix-php/mix) - ☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、Swow、WorkerMan、FPM、CLI-Server
 
 ## HTML
 
