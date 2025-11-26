@@ -31,6 +31,7 @@
 *   [Java](#java)
 *   [CoffeeScript](#coffeescript)
 *   [Rust](#rust)
+*   [Vim Snippet](#vim-snippet)
 *   [JavaScript](#javascript)
 *   [Batchfile](#batchfile)
 *   [C#](#c-2)
@@ -1041,9 +1042,11 @@
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
-## JavaScript
+## Vim Snippet
 
 *   [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
+
+## JavaScript
 
 *   [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 
