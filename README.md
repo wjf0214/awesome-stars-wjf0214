@@ -31,8 +31,8 @@
 *   [Java](#java)
 *   [CoffeeScript](#coffeescript)
 *   [Rust](#rust)
-*   [Vim Snippet](#vim-snippet)
 *   [JavaScript](#javascript)
+*   [Vim Snippet](#vim-snippet)
 *   [Batchfile](#batchfile)
 *   [C#](#c-2)
 *   [PHP](#php)
@@ -470,8 +470,6 @@
 
 *   [HdShare/WAuxiliary\_Plugin](https://github.com/HdShare/WAuxiliary_Plugin) - WeChat Auxiliary Plugin
 
-*   [jackvale/rectg](https://github.com/jackvale/rectg) - 从全网搜集超 10000+ 个 Telegram 群组、频道和机器人，并筛选出优质且持续更新的资源，为 数据分析、研究与学习 提供支持。所有数据均来源于互联网，仅用于研究分析，不涉及商业或违法用途，使用者需自行承担风险。
-
 *   [PKM-er/awesome-obsidian-zh](https://github.com/PKM-er/awesome-obsidian-zh) - Obsidian 优秀中文插件、主题与资源
 
 *   [KHwang9883/MobileModels](https://github.com/KHwang9883/MobileModels) - 手机品牌型号汇总 | Mobile Models | This repository is licensed under CC BY-NC-SA 4.0
@@ -759,8 +757,6 @@
 *   [daboynb/playcurlNEXT](https://github.com/daboynb/playcurlNEXT) -
 
 *   [xykt/NetQuality](https://github.com/xykt/NetQuality) - 网络质量检测脚本 - Network Quality Check Script
-
-*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 
 *   [monlor/docker-xiaoya](https://github.com/monlor/docker-xiaoya) - 💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture
 
@@ -1052,13 +1048,13 @@
 
 *   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
 
-## Vim Snippet
-
-*   [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
-
 ## JavaScript
 
+*   [jackvale/rectg](https://github.com/jackvale/rectg) - 收录并持续精选 10,000+ 个 Telegram 频道、群组与机器人，分类清晰，搜索即得，帮你省下自己找资源的时间。
+
 *   [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
+
+*   [awesome-android-root/awesome-android-root](https://github.com/awesome-android-root/awesome-android-root) - Discover best root apps, Magisk & LSPosed(xposed) modules with step-by-step rooting guides
 
 *   [HCLonely/awesome-bilibili-extra](https://github.com/HCLonely/awesome-bilibili-extra) - 收集一些让我们在使用B站时更加方便的浏览器扩展/脚本/程序【月底更新】
 
@@ -1229,6 +1225,10 @@
 *   [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
 *   [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+
+## Vim Snippet
+
+*   [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
 
 ## Batchfile
 
