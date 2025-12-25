@@ -1234,7 +1234,7 @@
 
 ## C\#
 
-*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. OpenTrace 是 NextTrace 的跨平台 GUI 界面，带来您熟悉但更强大的用户体验。
+*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - Cross-platform GUI traceroute tool. 一个跨平台可视化路由追踪工具。
 
 *   [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
 
