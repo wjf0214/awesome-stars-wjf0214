@@ -128,7 +128,7 @@
 
 ## Kotlin
 
-*   [HdShare/WExpt](https://github.com/HdShare/WExpt) - 灰度功能
+*   [HdShare/WExpt](https://github.com/HdShare/WExpt) - WeChat灰度功能
 
 *   [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 
@@ -728,7 +728,7 @@
 
 *   [komari-monitor/komari](https://github.com/komari-monitor/komari) - A simple server monitor tool.
 
-*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译服务器
+*   [xxnuo/MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 
 *   [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 
