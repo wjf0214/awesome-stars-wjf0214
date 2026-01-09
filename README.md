@@ -1158,7 +1158,7 @@
 
 *   [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) - 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 
-*   [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library
+*   [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - \[DEPRECATED] Stanford Javascript Crypto Library
 
 *   [oevery/ninja](https://github.com/oevery/ninja) -
 
