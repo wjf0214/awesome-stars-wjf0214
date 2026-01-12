@@ -44,6 +44,7 @@
 *   [AutoIt](#autoit)
 *   [Svelte](#svelte)
 *   [AngelScript](#angelscript)
+*   [Rich Text Format](#rich-text-format)
 *   [PowerShell](#powershell)
 *   [Roff](#roff)
 *   [Vim Script](#vim-script)
@@ -751,8 +752,6 @@
 *   [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 
 *   [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL
-
-*   [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
 
 *   [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
@@ -1481,6 +1480,10 @@
 ## AngelScript
 
 *   [chen310/BilibiliPotPlayer](https://github.com/chen310/BilibiliPotPlayer) - PotPlayer 哔哩哔哩插件：可以直接在 PotPlayer 中播放哔哩哔哩中的视频、直播和音乐
+
+## Rich Text Format
+
+*   [ellermister/wechat-clean](https://github.com/ellermister/wechat-clean) - 释放你的安卓微信内部存储空间，一键解放微信存储空间的工具。
 
 ## PowerShell
 
