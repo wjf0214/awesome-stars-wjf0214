@@ -46,7 +46,6 @@
 *   [AngelScript](#angelscript)
 *   [Rich Text Format](#rich-text-format)
 *   [PowerShell](#powershell)
-*   [Roff](#roff)
 *   [Vim Script](#vim-script)
 *   [Ruby](#ruby)
 *   [Elixir](#elixir)
@@ -839,6 +838,8 @@
 
 *   [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
 *   [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -1488,10 +1489,6 @@
 ## PowerShell
 
 *   [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) - Office Tool Plus localization projects.
-
-## Roff
-
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Vim Script
 
