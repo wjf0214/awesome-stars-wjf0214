@@ -300,6 +300,8 @@
 
 *   [pluwen/awesome-testflight-link](https://github.com/pluwen/awesome-testflight-link) - Collection of Testflight public app link（iOS/iPad OS/macOS/tvOS）
 
+*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
+
 *   [zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown) - ☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~
 
 *   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -643,8 +645,6 @@
 *   [ayaka14732/awesome-rime](https://github.com/ayaka14732/awesome-rime) - A curated list of Rime IME schemata and configs | Rime 輸入方案和配置列表
 
 *   [eryajf/awesome-navigation](https://github.com/eryajf/awesome-navigation) - 🧭 优秀的导航项目，优质的导航站搜集整理
-
-*   [ImCa0/just-laws](https://github.com/ImCa0/just-laws) - 一个简洁、便捷的中国法律文库 | A Simple and Convenient Laws Library of China.
 
 *   [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 
