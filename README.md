@@ -216,7 +216,7 @@
 
 ## Kotlin
 
-*   [HdShare/WExpt](https://github.com/HdShare/WExpt) - WeChat灰度功能
+*   [HdShare/WExpt](https://github.com/HdShare/WExpt) - WeChat Expt App
 
 *   [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 
