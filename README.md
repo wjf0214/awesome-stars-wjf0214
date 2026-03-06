@@ -110,6 +110,8 @@
 
 *   [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 
+*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+
 *   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 
 *   [baiyutang/meetup](https://github.com/baiyutang/meetup) - 【❤️ 互联网大厂技术分享PPT 👍🏻 持续更新中！】🍻各大技术交流会、活动资料汇总 ，如 👉QCon👉全球运维技术大会 👉 GDG 👉 全球技术领导力峰会👉大前端大会👉架构师峰会👉敏捷开发DevOps👉OpenResty👉Elastic，欢迎  PR  / Issues
@@ -1371,8 +1373,6 @@
 *   [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel
 
 *   [lkeme/BiliHelper-personal](https://github.com/lkeme/BiliHelper-personal) - 哔哩哔哩（Bilibili）助手 - PHP 版（Personal）
-
-*   [FireLustre/php-dfa-sensitive](https://github.com/FireLustre/php-dfa-sensitive) - :see\_no\_evil: 实现过滤敏感词汇:underage:，基于确定有穷自动机(DFA)算法，支持composer安装扩展
 
 ## HTML
 
