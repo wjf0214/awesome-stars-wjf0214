@@ -338,8 +338,6 @@
 
 *   [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-
 *   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 
 *   [msojocs/fiddler-everywhere-enhance](https://github.com/msojocs/fiddler-everywhere-enhance) - Fiddler Everywhere is a secure and modern web debugging proxy for macOS, Windows, and Linux.
@@ -734,8 +732,6 @@
 
 *   [BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer) - AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。AI写作。RWKV for Chinese novel generation.
 
-*   [KurtBestor/Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - :cake: Desktop utility to download images/videos/music/text from various websites, and more.
-
 *   [PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator) - 梦想是做出最棒的生肉翻译软件喵
 
 *   [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -1051,6 +1047,8 @@
 *   [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 
 *   [vsouza/awesome-ios](https://github.com/vsouza/awesome-ios) - A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 *   [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 
@@ -1377,6 +1375,8 @@
 *   [hlmd/Postman-cn](https://github.com/hlmd/Postman-cn) - Postman汉化中文版
 
 *   [mochat-cloud/mochat](https://github.com/mochat-cloud/mochat) - 基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!
+
+*   [MoeNetwork/Tieba-Cloud-Sign](https://github.com/MoeNetwork/Tieba-Cloud-Sign) - 百度贴吧云签到，在服务器上配置好就无需进行任何操作便可以实现贴吧的全自动签到。配合插件使用还可实现云灌水、点赞、封禁、删帖、审查等功能。注意：Gitee (原Git@osc) 仓库将不再维护，目前唯一指定的仓库为 Github。本项目没有官方交流群，如需交流可以直接使用Github的Discussions。没有商业版本，目前贴吧云签到由社区共同维护，不会停止更新（PR 通常在一天内处理）。
 
 ## HTML
 
