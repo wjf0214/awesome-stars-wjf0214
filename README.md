@@ -494,7 +494,7 @@
 
 *   [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
 
-*   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - Cluster-wide network observability for Kubernetes. Captures L4 packets, L7 API calls, and decrypted TLS traffic using eBPF, with full Kubernetes context. Available to AI agents via MCP and human operators via dashboard.
+*   [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
 
 *   [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 
