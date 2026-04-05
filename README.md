@@ -634,6 +634,8 @@
 
 *   [Frrrrrrrrank/auto\_job\_\_find\_\_chatgpt\_\_rpa](https://github.com/Frrrrrrrrank/auto_job__find__chatgpt__rpa) - This is a tool used to automatically generate a cover letter using chatgpt based on your resume and job description and send messages to bosses in China.
 
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
+
 *   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 
 *   [DoiiarX/NLCISBNPlugin](https://github.com/DoiiarX/NLCISBNPlugin) - 基于中国国家图书馆ISBN检索的calibre的source/metadata插件。https://doiiars.com/article/NLCISBNPlugin
@@ -1387,8 +1389,6 @@
 *   [cnymw/GolangStudy](https://github.com/cnymw/GolangStudy) - 《GolangStudy》：从简单到难最全总结，go基础，数据结构，算法，设计模式
 
 *   [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv表格文件，保存文章内图片、视频、音频文件
-
-*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 
 *   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
 
