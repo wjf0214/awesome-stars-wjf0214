@@ -100,7 +100,7 @@
 
 *   [Nutlope/qrGPT](https://github.com/Nutlope/qrGPT) - An AI QR Code Generator
 
-*   [gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan) - 小白羊网盘 - Powered by 阿里云盘。
+*   [gaozhangmin/boxplayer](https://github.com/gaozhangmin/boxplayer) - 小白羊网盘 - Powered by 阿里云盘。
 
 *   [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 
