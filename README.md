@@ -508,7 +508,7 @@
 
 *   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
 
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+*   [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 
 *   [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 
