@@ -152,6 +152,8 @@
 
 *   [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 
+*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+
 *   [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scaling modern AI applications, managed databases (MySQL, PostgreSQL, Redis, MongoDB) and complex microservice architectures.
 
 *   [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
@@ -364,8 +366,6 @@
 
 *   [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
-*   [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 *   [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
@@ -446,7 +446,7 @@
 
 ## Go
 
-*   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+*   [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 
 *   [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 
