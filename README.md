@@ -533,7 +533,7 @@
 
 *   [lkeme/Sbot](https://github.com/lkeme/Sbot) - Sbot
 
-*   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
+*   [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat) - 自动删除 Windows 和 Mac 电脑端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。
 
 *   [wkunzhi/Python3-Spider](https://github.com/wkunzhi/Python3-Spider) - Python爬虫实战 - 模拟登陆各大网站 包含但不限于：滑块验证、拼多多、美团、百度、bilibili、大众点评、淘宝，如果喜欢请start ❤️
 
