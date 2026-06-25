@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/wjf0214-awesome-stars-wjf0214-badge.png)](https://mseep.ai/app/wjf0214-awesome-stars-wjf0214)
+
 <div align="center">
 
 # awesome-stars-wjf0214
